@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yousef gathem</h1>
-<h3 align="center">i'm backend developer from egypt</h3>
+<h3 align="center">i'm egyptian backend developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gathem20&label=Profile%20views&color=0e75b6&style=flat" alt="gathem20" /> </p>
